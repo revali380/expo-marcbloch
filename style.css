@@ -7,14 +7,14 @@ body {
 		"contenu contenu"
 		"footer footer";
 	min-height: 100vh;
-    background-color: #F5ECD2;
+    background-color: #2F5B8E;
     font-family: Arial, sans-serif;
 }
 
 header {
 	grid-area: header;
 	padding: 10px;
-	background-color: #FC8A55;
+	background-color: #374051;
 	text-align: center;
 	color: #fff;
 	width: 100%;
@@ -26,7 +26,7 @@ footer {
 	grid-area: footer;
 	padding: 10px;
 	text-align: center;
-	background-color: #FC8A55;
+	background-color: #374051;
 	width: 100%;
 	box-sizing: border-box;
 	margin-top: 5px;
@@ -35,7 +35,7 @@ footer {
 #contenu-principal {
 	grid-area: contenu;
 	padding: 10px;
-	background-color: #FC8A55;
+	background-color: #374051;
 	overflow-y: auto;
 	margin-left: 30px;
 	margin-right: 30px;
@@ -44,7 +44,7 @@ footer {
 }
 
 p {
-	color: #223C63;
+	color: #ffffff;
 	font-size: 2rem;
 	text-align: center;
 	margin-block-start: 5px;
@@ -54,14 +54,14 @@ p {
 h1 {
 	font-size: 4rem;
 	font-weight: bold;
-	color: #223C63;
+	color: #ffffff;
 	margin-bottom: 50px;
 	text-align: center;
 }
 
 h3 {
 	font-size: 2.5rem;
-	color: #223C63;
+	color: #ffffff;
 	margin-bottom: 5px;
 	text-align: center;
 }
@@ -78,10 +78,10 @@ audio {
 
 h2 {
 	font-size: 2rem;
-	color: #223C63;
+	color: #ffffff;
 	margin-bottom: 2px;
 }
 
 a {
-	color : #223C63;
+	color : #AB7053;
 }
